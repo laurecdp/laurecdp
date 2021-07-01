@@ -3,9 +3,9 @@
 
 - 💻 I’m currently working on **my personal website**
 
-- 🌱 I’m currently learning **React & Python**
+- 🌱 I’m currently learning **C#**
 
-- 💬 Ask me about **Ruby on Rails**
+- 💬 Ask me about **Ruby, JavaScript and Ruby on Rails**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
