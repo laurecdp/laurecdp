@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Laure ! 🌻</h1>
-<h3 align="center">A Junior Fullstack Developer:fr:</h3>
+<h3 align="center">A Junior Fullstack Developer</h3>
 
 - 🌱 I’m currently learning **Angular**
 
