@@ -1,9 +1,9 @@
 <h1 align="center">Hello, I'm Laure ! 🌻</h1>
-<h3 align="center">A Junior Fullstack Developer</h3>
+<h3 align="center">A Web Fullstack Developer</h3>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Python / Django**
 
-- 💬 Ask me about **Ruby, Ruby on Rails, JavaScript, C#**
+- 💬 Ask me about **Ruby, Ruby on Rails, JavaScript, Typescript, C#**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
